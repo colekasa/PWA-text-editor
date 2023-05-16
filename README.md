@@ -12,6 +12,8 @@ Navigate to http://localhost:3000 in your web browser
 
 ## Usage
 
+Here is the Heroku Deployed Application: https://pwa-jate-colek.herokuapp.com/
+
 ### Offline Usage
 
 The application works offline, so you can use it without an internet connection. The application will automatically save your content inside the text editor when the DOM window is unfocused, so you don't need to worry about losing your work.
